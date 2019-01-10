@@ -12,4 +12,10 @@ public class Class1 {
 
     }
 
+    private void f3() {
+
+        //placeholder method (v3.0)
+
+    }
+
 }
